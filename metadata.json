@@ -1,0 +1,7 @@
+{
+  "name": "StyleMimic AI",
+  "description": "A sophisticated AI-powered image transformation tool that extracts artistic styles from reference images and applies them to your photos while preserving identity and pose.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
